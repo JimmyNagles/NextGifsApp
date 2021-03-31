@@ -54,16 +54,6 @@ const [term,setTerm] = useState('space')
 
 
 
-      <div >
-        <Image
-            src="/logo.png"
-            alt="logo"
-            layout=
-            "fill"
-            
-        />
-      </div>
-
 
       <p>     <Link
             href="/search/[pid]"
