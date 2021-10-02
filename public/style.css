@@ -10,6 +10,11 @@ body {
   padding: 0px 40px;
 }
 
+.card {
+  padding: 10px;
+  margin: 5px;
+}
+
 .search-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
